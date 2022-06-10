@@ -1,0 +1,12 @@
+{
+    "name": "freemods",
+    "mods": [
+    {
+        "id": "costume",
+        "name": "costume",
+        "version": "1.0",
+        "description": "costume for sakura.",
+        "game_version": "0.18.1",
+        "author": "free mods",
+        "file_name": "costume.zip"
+    }
